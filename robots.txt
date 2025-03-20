@@ -1,0 +1,5 @@
+# /robots.txt file for http://www.raspberrymedia.com/
+# mail ethan@raspberrymedia.com for constructive criticism
+
+User-agent: *
+
